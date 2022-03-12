@@ -2,10 +2,12 @@
 ![Alt text](./BoardArdTemp.PNG?raw=true "Title") 
 ## How to use:
 - From the terminal digit ``` pip install -r dependences.txt```
-- Open the email.txt file and write the emails following this scheme:
-0) sender@example.com 
-1) password of sender@example.com
-2) receiver@example.com
+- Open the email.txt file and write the emails following this scheme without any space:
+
+  * sender@example.com 
+  * password of sender@example.com
+  * receiver@example.com
+
   (note that if you're using gmail as sender@gmail.com you have to enable 'allow app from unknown source' or google will block the login).
 - Open temp_db.ino with arduino IDE software and load Dht11.zip manually from Shetch/Import Libraries and select the zip file.
 - Compile the sketch and load it on your board.
