@@ -1,0 +1,4 @@
+pyserial
+mysql-connector-python
+numpy
+matplotlib
